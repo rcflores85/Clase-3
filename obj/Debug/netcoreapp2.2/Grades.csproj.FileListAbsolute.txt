@@ -1,0 +1,11 @@
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.csprojAssemblyReference.cache
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.csproj.CoreCompileInputs.cache
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.AssemblyInfoInputs.cache
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.AssemblyInfo.cs
+/home/curso/Documentos/Grades/bin/Debug/netcoreapp2.2/Grades.deps.json
+/home/curso/Documentos/Grades/bin/Debug/netcoreapp2.2/Grades.runtimeconfig.json
+/home/curso/Documentos/Grades/bin/Debug/netcoreapp2.2/Grades.runtimeconfig.dev.json
+/home/curso/Documentos/Grades/bin/Debug/netcoreapp2.2/Grades.dll
+/home/curso/Documentos/Grades/bin/Debug/netcoreapp2.2/Grades.pdb
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.dll
+/home/curso/Documentos/Grades/obj/Debug/netcoreapp2.2/Grades.pdb
