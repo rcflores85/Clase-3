@@ -12,10 +12,33 @@ namespace Grades
         }
 
         public List<float> grades;
+        private readonly string _name;
         //private (por default)
         //protected (lo ven los objetos que heredan de la clase)
         //internal
 
+        private string _lastname;
+        public string LastName
+        {
+            get {return _lastname;}
+            set
+            {
+                if (!String.IsNullOrEmpty(value))
+                    LastName = value;
+
+                if (_lastname != value)
+                    NameChanged(_lastname, value);
+
+                _lastname = value;
+            }
+        }
+
+        public GradeBook(string name)
+        {
+            grades = new List<float>();
+            _name = name;
+            //de esta manera solo se puede asignar valor desde el constructor (readonly)
+        }
         public void AddGrades(float grade)
         {
             grades.Add(grade);
